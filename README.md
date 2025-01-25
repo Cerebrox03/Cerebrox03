@@ -6,12 +6,12 @@
     </a>
 </p>
 
-- **Cloud Integration Developer** with experience at **Deloitte USI***.
+- **Cloud Integration Developer** with experience at **Deloitte USI**.
 
 - 🌱 Currently learning **Node.js**, **Microservices**, and **JavaScript**.
+
 - 🎯 **Achievements**:
     - **Leetcode Rating**: 1371 with 300+ problems solved.
-    - Recognized with **WM Warriors** and **Applause Awards** for outstanding client contributions.
 
 - 📫 Reach me at: **kevingandhi00@gmail.com**
 
